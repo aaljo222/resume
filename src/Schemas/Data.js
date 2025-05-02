@@ -200,9 +200,25 @@ export const Data = {
       {
         name: "ITS(지능형교통체계)를 반영한 빅데이터 활용 풀스택 전문가 양성",
         company: "이젠컴퓨터아카데미화곡",
-        period: "Jan 2024 - July 2024 진행중",
+        period: "Jan 2024 -  2024 년 7월 ",
         description: [
           "JAVA ,JSP, 스프링,JAVASCRIPT,JQUERY ,HTML,CSS,SQL, Mybatis , 파이선, 빅데이터 강의"
+        ],
+      },
+      {
+        name: "프로젝트기반 웹&앱(자바,스프링,리액트,노코드) SW개발자 양성과정",
+        company: "미금 그린아카데미 노코드 2기",
+        period: "2024년 8월 -  2025 년 1월",
+        description: [
+          "JAVA , 스프링,JAVASCRIPT,리액트 ,HTML,CSS,SQL, JPA , 파이선"
+        ],
+      },
+      {
+        name: "프로젝트기반 웹&앱(자바,스프링,리액트,노코드) SW개발자 양성과정",
+        company: "미금 그린아카데미 노코드 3기",
+        period: "2025년 2월 -  현재 진행중",
+        description: [
+          "JAVA , 스프링,JAVASCRIPT,리액트 ,HTML,CSS,SQL, JPA , 파이선"
         ],
       },
     ],
